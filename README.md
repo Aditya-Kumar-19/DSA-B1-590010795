@@ -1,6 +1,6 @@
 This is my DSA Repo.
 
-NAME:: Aditya Kumar \n
-COURSE:: Mca(2024-2026) \n
-BATCH:: B1 \n
+NAME:: Aditya Kumar 
+COURSE:: Mca(2024-2026) 
+BATCH:: B1 
 SAP ID:: 590010795
