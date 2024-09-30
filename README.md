@@ -1,6 +1,5 @@
-This is my DSA Repo.
-
+This is my Dsa directory:
 NAME:: Aditya Kumar
-COURSE:: Mca(2024-2026)
-BATCH:: B1
+COURSE:: MCA
 SAP ID:: 590010795
+BATCH:: B1
